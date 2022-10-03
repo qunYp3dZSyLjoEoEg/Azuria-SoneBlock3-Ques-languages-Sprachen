@@ -6,3 +6,6 @@ To have the quests be shown in english, you will need to download the english-zi
 Damit die Quests auf Deutsch angezeigt werden, musst du die deutsche Zip-Datei für deine Modpack Version herunterladen, in den Ordner deiner Modpack-Instanz gehen, ->config->ftbquests->quests und dort den Ordner "chapters" durch denjenigen ersetzen, der in der deutsch-zip datei von hier enthalten ist.
 
 https://www.curseforge.com/minecraft/modpacks/project-642857/files/3971291
+
+Files for 1.28 should also work for 1.29.
+Dateien für 1.28 sollten auch für 1.29 funktionieren.
