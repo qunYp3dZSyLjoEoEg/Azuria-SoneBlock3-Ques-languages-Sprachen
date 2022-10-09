@@ -7,5 +7,8 @@ Damit die Quests auf Deutsch angezeigt werden, musst du die deutsche Zip-Datei f
 
 https://www.curseforge.com/minecraft/modpacks/project-642857/files/3971291
 
-Files for 1.28 should also work for 1.29.
-Dateien für 1.28 sollten auch für 1.29 funktionieren.
+Files for 1.28 should work till 1.30.
+Dateien für 1.28 sollten bis 1.30 funktionieren.
+
+Files for 1.31 should work till 1.31.
+Dateien für 1.31 sollten bis 1.31 funktionieren.
